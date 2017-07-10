@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw210dp-v13/values-sw210dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-sw210dp-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 215,
+                        "endColumn": 63,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 63,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-sw210dp-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 279,
+                        "endColumn": 59,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 51,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-sw210dp-v13/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 339,
+                        "endColumn": 47,
+                        "endOffset": 386
+                    }
+                }
+            }
+        ]
+    }
+]

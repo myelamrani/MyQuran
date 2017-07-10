@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w228dp-v13/values-w228dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-w228dp-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 222,
+                        "endColumn": 49,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 53,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-w228dp-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 272,
+                        "endColumn": 49,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 54,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-w228dp-v13/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 322,
+                        "endColumn": 50,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 53,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/home/mohamed/.android/build-cache/2774bd1182bd0721e1f763df0d7cc7672d65dfc9/output/res/values-w228dp-v13/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 373,
+                        "endColumn": 49,
+                        "endOffset": 422
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+t5.cd_cont_700/feat.params
+t5.cd_cont_700/feature_transform
+t5.cd_cont_700/mdef
+t5.cd_cont_700/means
+t5.cd_cont_700/mixture_weights
+t5.cd_cont_700/noisedict
+t5.cd_cont_700/transition_matrices
+t5.cd_cont_700/variances
+t5.dic
+t5.lm
+t5.lm.DMP

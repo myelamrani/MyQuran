@@ -1,4 +1,5 @@
-<resources>
-    <string name="app_name">My Quran</string>
-    <string name="test">Test</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Holy Quran PocketSphinx Demo</string>
 </resources>

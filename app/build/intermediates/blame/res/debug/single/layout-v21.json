@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

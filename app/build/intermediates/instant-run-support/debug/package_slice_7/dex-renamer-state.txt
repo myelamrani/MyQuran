@@ -1,4 +1,4 @@
-#Fri Jul 07 17:08:13 AST 2017
-base.0=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Sat Jul 15 11:41:56 AST 2017
+base.0=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
-file.0=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
+file.0=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

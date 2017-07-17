@@ -142,7 +142,7 @@ public class PocketSphinxActivity extends Activity implements
         if (hypothesis == null)
             return;
 
-        ((TextView) findViewById(R.id.result_text)).setText(hypothesis.getHypstr());
+        ((TextView) findViewById(R.id.partial_text)).setText(hypothesis.getHypstr());
     }
 
     /**
@@ -151,9 +151,11 @@ public class PocketSphinxActivity extends Activity implements
     @Override
     public void onResult(Hypothesis hypothesis) {
         ((TextView) findViewById(R.id.caption_text)).setText("This is what I recognized:");
-        ((TextView) findViewById(R.id.result_text)).setText("");
         if (hypothesis != null) {
             String text = hypothesis.getHypstr();
+            ((TextView) findViewById(R.id.result_text)).setText(
+                    ((TextView) findViewById(R.id.partial_text)).getText() + "\n" +
+                            ((TextView) findViewById(R.id.result_text)).getText());
             makeText(getApplicationContext(), text, Toast.LENGTH_SHORT).show();
         }
     }
@@ -171,16 +173,17 @@ public class PocketSphinxActivity extends Activity implements
         switchSearch(MODEL);
     }
 
-    public void buttonClearOnClick(View v) {
+    public void buttonRestartOnClick(View v) {
+        ((TextView) findViewById(R.id.partial_text)).setText("");
+        ((TextView) findViewById(R.id.result_text)).setText("");
         switchSearch(MODEL);
     }
 
     private void switchSearch(String searchName) {
         recognizer.stop();
-        ((TextView) findViewById(R.id.result_text)).setText(((TextView) findViewById(R.id.result_text)).getText() + "\n");
 
         // If we are not spotting, start listening with timeout (10000 ms or 10 seconds).
-        recognizer.startListening(searchName, 2000);
+        recognizer.startListening(searchName, 10000);
 
         ((TextView) findViewById(R.id.caption_text)).setText("You can recite now!");
 

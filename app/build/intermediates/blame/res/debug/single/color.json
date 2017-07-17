@@ -1,82 +1,82 @@
 [
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
         "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
         "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color/switch_thumb_material_light.xml"
     }
 ]

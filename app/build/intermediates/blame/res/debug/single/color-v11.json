@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/mohamed/Development/android/MyQuran/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mohamed/.android/build-cache/c1519e77cd09d54994e68a3290d350374d0ff8b5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

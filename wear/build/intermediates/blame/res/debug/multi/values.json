@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/mohamed/Development/android/MyQuran/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -2153,7 +2153,7 @@
                     "endOffset": 16471
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -2704,7 +2704,7 @@
                     "endOffset": 18496
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -2742,7 +2742,7 @@
                     "endOffset": 18680
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -2799,7 +2799,7 @@
                     "endOffset": 18865
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -2818,7 +2818,7 @@
                     "endOffset": 19016
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -2856,7 +2856,7 @@
                     "endOffset": 19184
                 },
                 "from": {
-                    "file": "/home/mohamed/Development/android/pocketsphinx-android-demo-master/wear/src/main/res/values/strings.xml",
+                    "file": "/home/mohamed/Development/android/MyQuran/wear/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

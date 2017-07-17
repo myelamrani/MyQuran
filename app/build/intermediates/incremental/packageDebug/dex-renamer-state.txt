@@ -1,7 +1,7 @@
-#Mon Jul 10 21:01:27 AST 2017
-base.0=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37259f02d5b634b64ccf6569efe010eaf59bad63
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd9369e0354e73746010776b135ab9ae3c51a607/classes.dex
-base.1=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd9369e0354e73746010776b135ab9ae3c51a607
-file.0=/home/mohamed/Development/android/pocketsphinx-android-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37259f02d5b634b64ccf6569efe010eaf59bad63/classes.dex
+#Sat Jul 15 11:41:56 AST 2017
+base.0=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b4790b0b90e983a2f54cad657d6599f0a87f8780
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_292643a23afecdadfbb4b7b303929971d9734b2e/classes.dex
+base.1=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_292643a23afecdadfbb4b7b303929971d9734b2e
+file.0=/home/mohamed/Development/android/MyQuran/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b4790b0b90e983a2f54cad657d6599f0a87f8780/classes.dex
